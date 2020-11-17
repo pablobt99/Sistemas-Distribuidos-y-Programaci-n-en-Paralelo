@@ -1,0 +1,10 @@
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\bin\Debug\ClienteSOAP.exe.config
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\bin\Debug\ClienteSOAP.exe
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\bin\Debug\ClienteSOAP.pdb
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.csprojAssemblyReference.cache
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.Form1.resources
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.Properties.Resources.resources
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.csproj.GenerateResource.cache
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.exe
+C:\Users\win\source\repos\MiSoap\ClienteSOAP\obj\Debug\ClienteSOAP.pdb

@@ -1,0 +1,13 @@
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.exe
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.deps.json
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.runtimeconfig.json
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.runtimeconfig.dev.json
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.dll
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\bin\Debug\netcoreapp3.1\ClasesOnline.pdb
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.csprojAssemblyReference.cache
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.AssemblyInfo.cs
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.dll
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.pdb
+C:\Users\win\source\repos\ClasesOnline\ClasesOnline\obj\Debug\netcoreapp3.1\ClasesOnline.genruntimeconfig.cache

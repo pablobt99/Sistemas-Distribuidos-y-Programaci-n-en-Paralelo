@@ -1,0 +1,9 @@
+C:\Users\win\source\repos\cliente\comunicaciones.test\bin\Debug\netcoreapp3.1\comunicaciones.test.exe
+C:\Users\win\source\repos\cliente\comunicaciones.test\obj\Debug\netcoreapp3.1\comunicaciones.test.csprojAssemblyReference.cache
+C:\Users\win\source\repos\cliente\comunicaciones.test\obj\Debug\netcoreapp3.1\comunicaciones.test.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\cliente\comunicaciones.test\obj\Debug\netcoreapp3.1\comunicaciones.test.AssemblyInfo.cs
+C:\Users\win\source\repos\cliente\comunicaciones.test\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\win\source\repos\cliente\comunicaciones.test\bin\Debug\netcoreapp3.1\xunit.assert.dll
+C:\Users\win\source\repos\cliente\comunicaciones.test\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\win\source\repos\cliente\comunicaciones.test\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
+C:\Users\win\source\repos\cliente\comunicaciones.test\obj\Debug\netcoreapp3.1\comunicaciones.test.csproj.CopyComplete

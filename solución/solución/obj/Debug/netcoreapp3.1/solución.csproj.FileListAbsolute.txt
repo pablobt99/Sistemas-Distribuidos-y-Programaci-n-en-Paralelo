@@ -1,0 +1,13 @@
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.exe
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.deps.json
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.runtimeconfig.json
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.runtimeconfig.dev.json
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.dll
+C:\Users\win\source\repos\solución\solución\bin\Debug\netcoreapp3.1\cliente.pdb
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\solución.csprojAssemblyReference.cache
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\solución.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\solución.AssemblyInfo.cs
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\solución.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\cliente.dll
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\cliente.pdb
+C:\Users\win\source\repos\solución\solución\obj\Debug\netcoreapp3.1\solución.genruntimeconfig.cache

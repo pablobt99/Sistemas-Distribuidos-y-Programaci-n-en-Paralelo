@@ -1,0 +1,13 @@
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.exe
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.deps.json
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.runtimeconfig.json
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.runtimeconfig.dev.json
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.dll
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\bin\Debug\netcoreapp3.1\ConexiónCliente.pdb
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.csprojAssemblyReference.cache
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.AssemblyInfo.cs
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.dll
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.pdb
+C:\Users\win\source\repos\ConexiónCliente\ConexiónCliente\obj\Debug\netcoreapp3.1\ConexiónCliente.genruntimeconfig.cache

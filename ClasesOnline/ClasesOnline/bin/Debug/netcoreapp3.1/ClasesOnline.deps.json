@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClasesOnline/1.0.0": {
+        "runtime": {
+          "ClasesOnline.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClasesOnline/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
