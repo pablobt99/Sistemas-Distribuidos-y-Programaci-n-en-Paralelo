@@ -1,0 +1,7 @@
+C:\Users\win\source\repos\Divisas\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\win\source\repos\Divisas\Servidor\bin\Debug\Servidor.exe
+C:\Users\win\source\repos\Divisas\Servidor\bin\Debug\Servidor.pdb
+C:\Users\win\source\repos\Divisas\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\win\source\repos\Divisas\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Divisas\Servidor\obj\Debug\Servidor.exe
+C:\Users\win\source\repos\Divisas\Servidor\obj\Debug\Servidor.pdb

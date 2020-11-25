@@ -11,3 +11,16 @@ C:\Users\win\source\repos\ConexiónServidor\ConexiónServidor\obj\Debug\netcorea
 C:\Users\win\source\repos\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.dll
 C:\Users\win\source\repos\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.pdb
 C:\Users\win\source\repos\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.genruntimeconfig.cache
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.exe
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.deps.json
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.runtimeconfig.json
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.runtimeconfig.dev.json
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.dll
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\bin\Debug\netcoreapp3.1\ConexiónServidor.pdb
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.csprojAssemblyReference.cache
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.AssemblyInfo.cs
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.dll
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.pdb
+C:\Users\win\source\repos\Sistemas-Distribuidos-y-Programacion-en-Paralelo\ConexiónServidor\ConexiónServidor\obj\Debug\netcoreapp3.1\ConexiónServidor.genruntimeconfig.cache

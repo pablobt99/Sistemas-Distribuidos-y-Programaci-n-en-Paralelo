@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\source\\repos\\ConexiónCliente\\ConexiónCliente\\ConexiónCliente.csproj",
+      "projectUniqueName": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónCliente\\ConexiónCliente\\ConexiónCliente.csproj",
       "projectName": "ConexiónCliente",
-      "projectPath": "C:\\Users\\win\\source\\repos\\ConexiónCliente\\ConexiónCliente\\ConexiónCliente.csproj",
+      "projectPath": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónCliente\\ConexiónCliente\\ConexiónCliente.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\source\\repos\\ConexiónCliente\\ConexiónCliente\\obj\\",
+      "outputPath": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónCliente\\ConexiónCliente\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",

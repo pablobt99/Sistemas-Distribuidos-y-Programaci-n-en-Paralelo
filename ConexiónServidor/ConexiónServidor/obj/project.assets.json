@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\source\\repos\\ConexiónServidor\\ConexiónServidor\\ConexiónServidor.csproj",
+      "projectUniqueName": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónServidor\\ConexiónServidor\\ConexiónServidor.csproj",
       "projectName": "ConexiónServidor",
-      "projectPath": "C:\\Users\\win\\source\\repos\\ConexiónServidor\\ConexiónServidor\\ConexiónServidor.csproj",
+      "projectPath": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónServidor\\ConexiónServidor\\ConexiónServidor.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\source\\repos\\ConexiónServidor\\ConexiónServidor\\obj\\",
+      "outputPath": "C:\\Users\\win\\source\\repos\\Sistemas-Distribuidos-y-Programacion-en-Paralelo\\ConexiónServidor\\ConexiónServidor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
